@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2013 for Web
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Trade.Model", "Trade.Model\Trade.Model.csproj", "{B8B4ADCB-EA83-40AC-A58B-4EA20FB56117}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Trade.Shop", "Trade.Shop\Trade.Shop.csproj", "{36C15E48-3608-4662-8B4C-A2AEBB66F6A5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Trade.Manage", "Trade.Manage\Trade.Manage.csproj", "{E6A65961-23F5-4912-A341-96A89C825465}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B8B4ADCB-EA83-40AC-A58B-4EA20FB56117}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8B4ADCB-EA83-40AC-A58B-4EA20FB56117}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8B4ADCB-EA83-40AC-A58B-4EA20FB56117}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8B4ADCB-EA83-40AC-A58B-4EA20FB56117}.Release|Any CPU.Build.0 = Release|Any CPU
+		{36C15E48-3608-4662-8B4C-A2AEBB66F6A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36C15E48-3608-4662-8B4C-A2AEBB66F6A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36C15E48-3608-4662-8B4C-A2AEBB66F6A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36C15E48-3608-4662-8B4C-A2AEBB66F6A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E6A65961-23F5-4912-A341-96A89C825465}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6A65961-23F5-4912-A341-96A89C825465}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6A65961-23F5-4912-A341-96A89C825465}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6A65961-23F5-4912-A341-96A89C825465}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
